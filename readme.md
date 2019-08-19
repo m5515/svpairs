@@ -42,6 +42,7 @@ The application is buggy, there was little time to test it thoroughly, cleanup c
 - TODO The oracle should be able to reconstruct the played games by crawling the blockchain.
   When reset or started, the oracle should either terminate open games or resume them.
 
+* TODO The cards shuffle posted at gamestart should be encrypted using the private key posted at the end.
 * TODO The cost of flipping cards and pair rewards should be balanced using probabilities (close to 50/50).
 * TODO Client-side error messages from the server
 * TODO client-side display info on matching pair / prize received
