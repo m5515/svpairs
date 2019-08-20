@@ -33,7 +33,7 @@ npm i && npm run dev
 
 ## Client-Oracle Protocol
 
-- See Appendix
+![img](./client-oracle-protocol.png)
 
 ## Final Notes
 
